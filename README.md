@@ -67,7 +67,8 @@ DineSmart is a full-stack restaurant management web application built using the 
    npm install
 3. **Set up environment variables**:
    Create a .env file in the backend directory with necessary API keys, database URIs, and JWT secrets.
-4.**Start the development server:**
+   
+4. **Start the development server:**
    npm run server
    npm start
 5.**Visit http://localhost:3000 to access the app.**
